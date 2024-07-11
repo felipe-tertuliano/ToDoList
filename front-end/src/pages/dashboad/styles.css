@@ -1,0 +1,7 @@
+.my-appbar {
+    margin-bottom: 15px;
+
+    & > * {
+        margin: 0px 15px;
+    }
+}
